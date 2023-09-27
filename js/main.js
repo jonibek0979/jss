@@ -19,19 +19,19 @@ var str = prompt ("Yashash manzilinggizni kiriting")
 console.log(age);
 console.log(num);
 console.log(str);
-// num = prompt ('num')
-// var num1 = prompt('num1')
-// var num2 = prompt('num2')
-// console.log( num1 * num2 )
-// console.log( num1 / num2 )
-// console.log( num1 * 1 + num2 * 1)
-// console.log( num1 - num2 )
-// console.log( tel )
-// console.log("salom" * 1 + 10);
-// console.log("10" * 1 + 10);
-// console.log("10" - 10);
-// console.log("10" * 10);
-// console.log("10" / 10);
+num = prompt ('num')
+var num1 = prompt('num1')
+var num2 = prompt('num2')
+console.log( num1 * num2 )
+console.log( num1 / num2 )
+console.log( num1 * 1 + num2 * 1)
+console.log( num1 - num2 )
+console.log( tel )
+console.log("salom" * 1 + 10);
+console.log("10" * 1 + 10);
+console.log("10" - 10);
+console.log("10" * 10);
+console.log("10" / 10);
 
 
 
